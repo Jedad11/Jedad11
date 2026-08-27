@@ -22,7 +22,7 @@ international clients.
 | Project | What it does | Stack |
 |---|---|---|
 | [**Rest \| Rent**](https://github.com/Jedad11/G07-FullStuck) | Student dormitory booking platform | React · Tailwind · Hono · Prisma |
-| [**JHackathon**](https://github.com/Jedad11/JHackathon) | Class booking system with staff applications | React · Express · Supabase |
+| [**Taste of Thai**](https://github.com/Jedad11/JHackathon) | Class booking system with staff applications | React · Express · Supabase |
 | [**GENCAP**](https://github.com/Jedad11/CSC105-hackathon-G07-GENCAP) | English vocabulary quiz game | React · Hono · Prisma |
 | [**Brew Ledger**](https://github.com/Jedad11/brewledger) | Cost + pre-order system for Thai coffee SMEs | Next.js · Supabase |
 
