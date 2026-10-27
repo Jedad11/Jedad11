@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jedad 👋
+# Hi, I'm Jed 👋
 
 **Full-stack developer** focused on backend / API design · Student at KMUTT
 
